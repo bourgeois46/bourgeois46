@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CDEDF8&height=130&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2560D2&height=110&section=header" />
 
 
 <h3 align="center">🛠 Tech Stack </h3>
@@ -26,6 +26,6 @@
   <a img src="https://github.com/bourgeois46><img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CDEDF8&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=335DB0&height=90&section=footer"/>
 
 
