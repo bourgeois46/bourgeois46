@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2560D2&height=110&section=header" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=70&duration=4000&pause=3&color=657AF0&center=True&multiline=true&repeat=true&width=1000&height=100&lines=Bourgeois Github🌊)](https://git.io/typing-svg)
+ 
 <h3 align="center">🛠 Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
