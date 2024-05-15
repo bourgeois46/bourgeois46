@@ -1,9 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2560D2&height=110&section=header" />
-<p align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?Code&style=flat-square&logo=Vimeo&color=051015&weight=100&size=30&duration=4000&pause=1000&random=false&&width=435&lines=🌊Bourgeois Github" alt="Typing SVG"/>
-</a>
-</p>
 <h3 align="center">🛠 Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
