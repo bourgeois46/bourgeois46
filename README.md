@@ -8,7 +8,7 @@
 
   <h3>🛠 Tech Stack </h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=git,notion,figma,discord,vscode,visualstudio,eclipse,html,css,js,ts,python,c,java )](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=git,notion,figma,discord,vscode,visualstudio,eclipse,html,css,js,ts,python,c,java,unity )](https://skillicons.dev)<br>
   [![My Skills](https://skillicons.dev/icons?i=react,tailwind,firebase,linux,docker,aws)](https://skillicons.dev)
 </p>
 
