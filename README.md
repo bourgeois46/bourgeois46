@@ -1,29 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2560D2&height=110&section=header" />
-<h3 align="center">🛠 Tech Stack </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  
-  
-  <br>
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-  &nbsp 
+## Hi! I'm bourgeois 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbourgeois46&count_bg=%23B1C978&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80++Today%27s+Visits+%2F+Total+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-</p>
-
-<h3 align="center">🌊It's Me </h3>
-<p align="center">
-  <a href="https://velog.io/@bourgeois46"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="https://velog.io/@bourgeois46"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
   <a href="juahsome2795@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-  <a img src="https://github.com/bourgeois46><img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://www.instagram.com/bou_rgeois46"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+  <h3>🛠 Tech Stack </h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=git,notion,figma,discord,vscode,visualstudio,eclipse,html,css,js,ts,python,c,java )](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,firebase,linux,docker,aws)](https://skillicons.dev)
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=335DB0&height=90&section=footer"/>
+
+  
+
 
 
