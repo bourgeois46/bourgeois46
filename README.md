@@ -2,7 +2,8 @@
 
   <a href="https://velog.io/@bourgeois46"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
   <a href="juahsome2795@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-  <a href="https://www.instagram.com/bou_rgeois46"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+
 
   <h3>🛠 Tech Stack </h3>
 
